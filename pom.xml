@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://43.204.101.50:8081/repository/demo-javaapp-release/</url>
+	      <url>http://52.66.253.209:8081/repository/demo-app-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://43.204.101.50:8081/repository/demo-javaapp-snapshot/</url>
+	      <url>http://52.66.253.209:8081/repository/demo-app-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
